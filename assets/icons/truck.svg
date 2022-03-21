@@ -1,0 +1,13 @@
+<svg id="delivery-truck" xmlns="http://www.w3.org/2000/svg" width="10" height="34" viewBox="0 0 51.211 37.49">
+  <path id="Path_7302" data-name="Path 7302" d="M341.283,164.8H330.709v19.165h17.325v-8.626l-2.021-6.983a4.924,4.924,0,0,0-4.73-3.556" transform="translate(-297.634 -155.179)" fill="#ff7058"/>
+  <path id="Path_7303" data-name="Path 7303" d="M367.162,196.908l-1.8-6.225a2.534,2.534,0,0,0-2.421-1.819h-8.167v8.044Z" transform="translate(-319.291 -176.836)" fill="#84dbff"/>
+  <path id="Path_7304" data-name="Path 7304" d="M367.126,196.876h-12.4v-8.044Z" transform="translate(-319.253 -176.807)" fill="#cdd6e0"/>
+  <path id="Path_7305" data-name="Path 7305" d="M367.162,196.908l-1.8-6.225a2.534,2.534,0,0,0-2.421-1.819h-8.167Z" transform="translate(-319.291 -176.836)" fill="#f2f2f2"/>
+  <path id="Path_7306" data-name="Path 7306" d="M3.2,68.6H29.875a3.2,3.2,0,0,1,3.2,3.2V97.382H0V71.8a3.2,3.2,0,0,1,3.2-3.2" transform="translate(0 -68.597)" fill="#ffd15c"/>
+  <path id="Path_7307" data-name="Path 7307" d="M124.185,68.651v8.456l-1.238-1.237-1.3,1.3-1.3-1.3-1.3,1.3-1.3-1.3-1.313,1.3-1.3-1.3L113.9,77.122V68.651Z" transform="translate(-102.508 -68.646)" fill="#f2f2f2"/>
+  <path id="Path_7308" data-name="Path 7308" d="M51.249,322.613v3.616H.043v-3.616H5.388a7.333,7.333,0,0,1,12.8,0h17.2a7.323,7.323,0,0,1,12.79,0Z" transform="translate(-0.039 -293.829)" fill="#334a5e"/>
+  <path id="Path_7309" data-name="Path 7309" d="M376.449,346.348a5.11,5.11,0,1,1-5.111-5.111,5.111,5.111,0,0,1,5.111,5.111" transform="translate(-329.601 -313.97)" fill="#40596b"/>
+  <path id="Path_7310" data-name="Path 7310" d="M400.9,373.871a2.054,2.054,0,1,1-2.053-2.053,2.053,2.053,0,0,1,2.053,2.053" transform="translate(-357.105 -341.492)" fill="#acb3ba"/>
+  <path id="Path_7311" data-name="Path 7311" d="M76.558,346.348a5.111,5.111,0,1,1-5.111-5.111,5.112,5.112,0,0,1,5.111,5.111" transform="translate(-59.702 -313.97)" fill="#40596b"/>
+  <path id="Path_7312" data-name="Path 7312" d="M101.013,373.871a2.053,2.053,0,1,1-2.053-2.053,2.052,2.052,0,0,1,2.053,2.053" transform="translate(-87.215 -341.492)" fill="#acb3ba"/>
+</svg>

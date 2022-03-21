@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "679184282992",
+    "project_id": "kayan-logistics",
+    "storage_bucket": "kayan-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679184282992:android:6aa35b3b0f0ba664458bb5",
+        "android_client_info": {
+          "package_name": "com.kayanintelligence.kayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679184282992-9dtd3knc4p63q44ou0v933akjnbli2m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kayanintelligence.kayan",
+            "certificate_hash": "d2e6332bfdf94600e7696c1c6311197f88d09b57"
+          }
+        },
+        {
+          "client_id": "679184282992-6nq1qlocudje4o8jbtlmo6smujclb30g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4HzWZB94BYIoVVMlRgjAwhc3kfaaFvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679184282992-6nq1qlocudje4o8jbtlmo6smujclb30g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679184282992-ot94ate4h734oj0010e8im356ckm5ibv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kayanintelligence.kayan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
